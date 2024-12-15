@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+
+.js-memes-select{
+
+width: 300px;
+
+height: 40px;
+
+background-color: aqua;
+
+border: 2px solid green;
+
+margin-left: 200px;
+
+border-radius: 20px;
+
+
+}
